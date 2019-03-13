@@ -1,0 +1,26 @@
+.animalBtn {
+    color: white;
+    background: teal;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.btn:hover {
+    color: black;
+    background: rgb(12, 201, 201);
+}
+
+.submit {
+    color: white;
+    background: teal;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+h3 {
+    margin-top: 10px;
+}
+
+.gifs {
+    float: left;
+}
